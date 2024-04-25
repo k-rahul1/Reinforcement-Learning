@@ -8,19 +8,18 @@ This project addresses the challenge of tension-aware, winding-constrained path 
 
 # Repository Contents
 
-Code: Contains the implementation of the reinforcement learning-based approach for tension-aware, winding-constrained path planning for tethered robots.
-Video: Includes video of testing the path planning algorithm.
-Documentation: Contains documentation, such as research papers, technical reports, or user manuals, related to the project.
-Plots: Stores plots used in the project documentation or presentation.
-Report: Includes the presentation and project report.
-README.md: Provides an overview of the project, installation instructions, usage guidelines, and other relevant information.
+Code: Contains the implementation of the reinforcement learning-based approach for tension-aware, winding-constrained path planning for tethered robots.<br />
+Video: Includes video of testing the path planning algorithm.<br />
+Plots: Stores plots used in the project documentation or presentation.<br />
+Report: Includes the presentation and project report.<br />
+README.md: Provides an overview of the project, installation instructions, usage guidelines, and other relevant information. <br />
 
 
 # Usage
 
-To use the codebase for tension-aware, winding-constrained path planning:
--Clone the repository to your local machine.
--Install the necessary dependencies as specified in the requirements file.
--Run the main script or Jupyter notebooks to execute the path planning algorithm.
--Customize parameters or configurations as needed for specific scenarios.
--Analyze the results and adapt the approach as required for your application.
+To use the codebase for tension-aware, winding-constrained path planning:<br />
+-Clone the repository to your local machine.<br />
+-Install the necessary dependencies as specified in the requirements file.<br />
+-Run the main script or Jupyter notebooks to execute the path planning algorithm.<br />
+-Customize parameters or configurations as needed for specific scenarios.<br />
+-Analyze the results and adapt the approach as required for your application.<br />
