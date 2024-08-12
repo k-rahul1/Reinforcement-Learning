@@ -7,10 +7,7 @@ This project addresses the challenge of tension-aware, winding-constrained path 
 
 Tether winding path visulization
 <p align="center">
-  <video width="800" controls>
-    <source src="Video/State Space (X,Y,theta).mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="Video/StateSpaceXYtheta-ezgif.com-video-to-gif-converter.gif" width="800" >
 </p>
 
 
