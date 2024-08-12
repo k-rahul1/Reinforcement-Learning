@@ -5,6 +5,14 @@ In the domain of planetary exploration, navigating extreme terrains presents a f
 
 This project addresses the challenge of tension-aware, winding-constrained path planning for tethered robots. The objective is to find a collision-free path from the start state to the goal state while achieving a user-defined winding angle to induce the required tether tension due to the capstan effect. Leveraging reinforcement learning techniques such as Monte Carlo control, SARSA, Q-learning, and Deep Q-learning, the proposed approach learns an optimal policy for path planning. This policy considers winding constraints and optimizes the overall path, enhancing adaptability to complex environments. By training the agent to navigate while managing tether tension, this project aims to develop a robust solution for tethered robots operating in extreme terrain conditions.
 
+Tether winding path visulization
+<p align="center">
+  <video width="800" controls>
+    <source src="Video/State Space (X,Y,theta).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 
 # Repository Contents
 
